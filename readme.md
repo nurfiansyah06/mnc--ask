@@ -1,1 +1,1 @@
-![alt text](https://github.com/nurfiansyah06/mnc-task/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/nurfiansyah06/mnc-task/blob/main/image.pngg?raw=true)
